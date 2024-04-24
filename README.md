@@ -1,2 +1,2 @@
-# irina-si-qa.github.io
-Файлы сайта-визитки
+# cv_test
+Сайт-визика на HTML + CSS + JS
